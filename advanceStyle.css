@@ -1,0 +1,15 @@
+.advance_blockContainer{
+    margin: 25px 35px;
+}
+
+hr{
+    color: #121212;
+    border-width: 2px;
+    width: 100%;
+}
+
+.advance_h1{
+    margin: 0;
+    margin-left: 10px;
+    font-size: 20px;
+}
